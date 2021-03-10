@@ -7,5 +7,5 @@ the following gif is about strategy, where you can buy if MA10>MA40 , and sell i
 
 The following image is about file_2, where is about probability of dropping over a number and Calculate Value at risk (VaR).
 
-![file_2](
+![file_2](https://github.com/gab-costa/Python-and-Statistics-for-Financial-Analysis/blob/main/Log_return.png)
 
