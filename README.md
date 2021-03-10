@@ -9,3 +9,6 @@ The following image is about file_2, where is about probability of dropping over
 
 ![file_2](https://github.com/gab-costa/Python-and-Statistics-for-Financial-Analysis/blob/main/Log_return.png)
 
+
+Hypothesis testing: 
+!()
