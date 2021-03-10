@@ -11,4 +11,4 @@ The following image is about file_2, where is about probability of dropping over
 
 
 Hypothesis testing: 
-!()
+![Hypothesis testing](https://github.com/gab-costa/Python-and-Statistics-for-Financial-Analysis/blob/main/hypothesis%20testing.png)
